@@ -1,0 +1,155 @@
+1 - savol:
+    -- python o'zgaruvchilardan foydalanaib calculator tuzib bering
+
+2 - savol:
+    -- Siz kompaniyada xodimlarni boshqarish tizimini qurmoqdasiz. Har bir xodimning ismi, yoshi va maoshi bor. Ba'zi xodimlar to'liq kunlik, ba'zilari esa yarim kunlik ishlaydi. To'liq vaqtda ishlaydigan xodimlar sog'liqni saqlash va pensiya rejalari kabi imtiyozlarga ega bo'lishadi, yarim kunlik xodimlar esa bu imtiyozlarni olmaydilar. Ushbu xodimlarni ifodalovchi dastur yaratish uchun merosdan foydalaning
+
+3 - savol:
+    -- Foydalanuvchidan butun sonni kiritishni talab qiladigan va uni floatga aylantiruvchi dastur yozing. Agar kirish butun son bo'lmasa, dastur xato xabarini chop etishi va foydalanuvchidan to'g'ri butun sonni kiritishni so'rashi kerak.
+
+4 - savol:
+    -- Foydalanuvchidan ikkita raqam kiritishni talab qiladigan va birinchi raqamni ikkinchi raqamga bo'ladigan dastur yozing. Agar ikkinchi raqam nolga teng bo'lsa, dastur xato xabarini chop etishi va foydalanuvchidan nolga teng bo'lmagan raqamni kiritishni so'rashi kerak.
+
+5 - savol:
+    -- Foydalanuvchidan fayl nomini kiritishni so'raydigan va faylni ochadigan dastur yozing. Agar faylni ochib bo'lmasa, dastur xato xabarini chop etishi va foydalanuvchidan to'g'ri fayl nomini kiritishini so'rashi kerak.
+
+6 - savol:
+    -- Requirements.txt yaratib bering 
+
+7 - savol:
+    -- Atributlar nomi va ish haqi bilan Xodimlar class yarating. Keyin Xodimdan meros (inhertance) bo'ladigan va qo'shimcha atribut bonusiga ega bo'lgan kichik class menejerini yarating. Bonus bilan ish haqini hisoblash uchun menejerda ish haqi usulini bekor qiling
+
+8 - savol:
+    -- Shaxsiy atributlar balansi va foiz_stavkasi bilan BankAccount class yarating. Balans atributini o‘zgartiruvchi depozit va yechib olishning ommaviy usullarini hamda balans va foiz_stavkasi atributlari asosida hisob bo‘yicha foizlarni hisoblaydigan va qaytaradigan umumiy hisoblangan_foizni qo‘shing.
+
+9 - savol:
+    -- Markasi, modeli va yiliga oid shaxsiy atributlarga ega avtomobil clasi yarating. Marka, model va yil atributlarini olish uchun umumiy barchasni qo'shing. Yil atributi asosida avtomobilning yoshini hisoblash uchun umumiy qo'shing
+
+10 - savol:
+    -- Berilgan listdagi eng kichik va  katta qiymatni topuvchi dastur yarating [4, 7, 2, 8, 1, 9, 5, 6, 15, 13]
+
+11 - savol:
+    -- Berilgan listdagi elementlar yig'indisini toping. Berilgan listdagi elementlar yig'indisining o'rtacha qiymatini toping. 
+
+12 - savol:
+
+    -- Berilgan listdagi juft va toq sonli elementlarining yig'indisini toping.
+
+13 - savol:
+    
+    -- o'quvchilar haqida ma'lumotlarni saqlagan dictionary yaratishingiz  (ism, yosh, fekultet, grux) larni tagma-tag jolashtirgan xolda for loop orqali chiqarib bering o'quvchilar soni 25 ta!
+
+14  - savol:
+    
+    -- forda teleonlarning narxi bilan dictionary yaratib, foydalanuvchidan ro'yxatdagi elementlarni tanlashni so'raymiz va o'sha elementni o'chirishlari uchun dastur yarating
+
+15 - savol:
+    
+    -- Foydalanuvchidan bir nechta son kiritishini so'raydigan dastur yarating va kiritilgan sonlarning yig'indisini hisoblovchi dastur tuzing
+
+16 - savol:
+
+    -- whileda Foydalanuvchidan ismini kiritishni so'raydigan dastur yarating va Random kutubxonasidan foydalanib son topish o'yinini yarating
+
+17 - savol:
+
+    -- whileda Foydalanuvchi istalgancha ism kiritishi kerak va eng oxirida exit kiritilganda  dastur toxtab kiritilingan ismlarni list ko'rinishida ciqarib bersin
+
+18 - savol:
+
+    -- Foydalanuvchidan juft son kiritishni so'raymiz va kiritilgan sonlarni ro'yxatga yozib, ro'yxatni chiqaramiz.
+
+19 - savol:
+
+    --  Foydalanuvchidan kelgan xabarlarni tekshiruvchi dastur yarating. Foydalanuvchidan kelgan xabar kichik xarflarda bo'lsa "Tushunmadim, qaytadan yozing" degan javop qaytishi va
+    kelgan xabar katta harflarda bo'lsa "xabaringiz katta harflarda yozilgan desin"
+
+20 - savol:
+
+    -- sizdagi list ro'yxatdagi sonlarning ko'paytmasini hisoblaydigan funksiya yarating
+
+21 - savol:
+     
+    -- Foydlanuvchi kiritgan sonning faktorialini hisoblovchi funksiya yarating
+
+22 - savol:
+
+    -- Berilgan ro'yxatdan juft sonlarni oluvchi dastur yarating [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+23 - savol:
+
+    -- While True dan oydalanib myshop dasturii yarating sizda 
+     {
+    "olma": 5000,
+    "anor": 7000,
+    "nok": 2000,
+    "uzum": 10000,
+    "shaftoli": 8000
+} maxsulotlar mavjud va shu maxsulotlarni dastur ishga tushgan namoish etisingiz kerak va
+foydlanuvchi istalgancha maxsulotni istalgan xolda xarid qilishi kerak va xaridlarni xisoblab beriborishi kerak bo'ladi masalan(olma yozilganda nechta olasiz desin va kiritgan sonini
+narxiga ko'paytirib xisoblab boraversin ) eng oxirida exit yoki stop buyrug'i kiritilinsa barcha xaridni 
+nomlari bilan xisoblab berishi kerak 
+
+24 - savol:
+    -- Foydalanuvchi ro'yxatdagi buyurtmalarni kiritadi
+    {
+        "olma": 1000, 
+        "banan": 2000, 
+        "nok": 1500, 
+        "uzum": 3000, 
+        "anor": 2500
+    }
+    va bu buyurtmalarga asosan do'kon ichidagi mahsulotlardan tanlash mumkin bo'ladi. Buyurtma va mahsulotlar dictionaryda saqlanadi. 
+    Dastur tugashiga qadar foydalanuvchi buyurtmalar kiritishni davom ettirishi mumkin bo'lishi kerak va misol u 100 ta maxxsulotdan 1100 ta olsa buncha maxsulot yoqligini aytishi 
+    va dasturni davol ettriishi kerak bo'ladi shu bilan birgalikda u xarid qilgan maxsulot qiymatidan olgan qiymatini xisoblab borishi kerak
+    va eng oxirida stop buyug'i orqali xaridlarni xisoblab beruvci dasturni yarating.
+
+25 - savol:
+
+    -- Django loyixa yarating loyixangizda media fayllar bilan ishlovchi qism bo'lsin ( mushuk faylida mushuklar surati, mevalar faylida mevalar) shu kabi 8ta misollar aralashgan dastur yarating
+
+26 - savol:
+
+    -- Yangiliklar uchun Django loyixa yarating loyixangizda qidiruv tizimi va kategoriyalar bo'yicha saralab beruvchi funksiya islasin. Eslatma!!! loyixa shabloni va dizayni 
+    axamiyatli bo'ladi.
+
+27 -  savol:
+
+    -- Djangoda form yarating form ko'rinishi sizga taqdim etilgan (form1.html) manashu formadagi barcha funksiyalar sizda ishlashi kerak. Eslatma!!! fromadagi css3 stylelari buzilmasin.
+
+28 - savol:
+      
+    -- Djangoda form yarating form ko'rinishi sizga taqdim etilgan (form2.html) manashu formadagi barcha funksiyalar sizda ishlashi kerak. Eslatma!!! fromadagi css3 stylelari buzilmasin.
+
+29 - savol:
+
+    -- Djangoda yaratilingan obyeklarga tegishli ma'lumotni ochib o'qish imkoniyatiga ega o'lgan dastur yarating. Eslatma!!! loyixa shabloni va dizayni 
+    axamiyatli bo'ladi.
+
+30 - savol:
+
+    -- Djangoda CRUD (create, update, delete) funksiyalari ishlovchi yagiliklar saxifasini yarating. Eslatma!!! loyixa shabloni va dizayni 
+    axamiyatli bo'ladi.
+
+31 - savol:
+
+    -- Djangoda Statistik ma'lumotlar bilan ishlovchi dastur yaratig. Dasturda kompaniyalarning oylik daromadi va ularning chiqimlarini ko'rsatuvchi chart bo'lsin.
+    Eslatma!!! loyixa shabloni va dizayni axamiyatga ega.
+
+32 - savol:
+    
+    -- Djangoda CRUD (create, update, delete) funksiyalari va UUID bilan ishlovchi maxsulotlar ombori saxifasini yarating. Saxifada asosiy maxsuotlar qatlami kompyuter texnikalari bo'lsin.
+    Eslatma!!! loyixa shabloni va dizayni axamiyatli bo'ladi.
+
+33 - savol:
+
+    -- Djangoda auth ya'ni kirishni tasdiqlochi dastur yarating va sizga taqdim etilgan shablonga login pageni ulang(form2.html). Eslatma!!! fromadagi css3 stylelari buzilmasin.
+
+34 - savol:
+
+    -- Djangoda register(signup)dastur yarating va sizga taqdim etilgan shablonga login pageni ulang(form3.html). Eslatma!!! fromadagi css3 stylelari buzilmasin.
+
+35 - savol:
+
+    -- Djangoda maktab boshqaruv dasturni yarating o'qituvchilar uchun dasturda yangi fanlar yaratish, o'quvchilar yaratish, ularni baxolovchi dasturi bo'lsin, 
+    o'quvchilar uchun esa faqatgina foydalanish xuquqi bo'lsin. Eslatma!!! dastruda barchasi o'zingizni ijodiy yodashuvngizga bog'liq, o'zingizdan qo'shicha qo'shishingiz mumkun.
