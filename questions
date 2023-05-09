@@ -17,19 +17,30 @@
     -- Requirements.txt yaratib bering 
 
 7 - savol:
-    -- Atributlar nomi va ish haqi bilan Xodimlar class yarating. Keyin Xodimdan meros (inhertance) bo'ladigan va qo'shimcha atribut bonusiga ega bo'lgan kichik class menejerini yarating. Bonus bilan ish haqini hisoblash uchun menejerda ish haqi usulini bekor qiling
+    -- Atributlar nomi va ish haqi bilan Xodimlar class yarating. Keyin Xodimdan 
+    meros (inhertance) bo'ladigan va qo'shimcha atribut bonusiga ega bo'lgan 
+    kichik class menejerini yarating. Bonus bilan ish haqini hisoblash uchun
+     menejerda ish haqi usulini bekor qiling
 
 8 - savol:
-    -- Shaxsiy atributlar balansi va foiz_stavkasi bilan BankAccount class yarating. Balans atributini o‘zgartiruvchi depozit va yechib olishning ommaviy usullarini hamda balans va foiz_stavkasi atributlari asosida hisob bo‘yicha foizlarni hisoblaydigan va qaytaradigan umumiy hisoblangan_foizni qo‘shing.
+    -- Shaxsiy atributlar balansi va foiz_stavkasi bilan BankAccount class yarating.
+     Balans atributini o‘zgartiruvchi depozit va yechib olishning ommaviy usullarini
+      hamda balans va foiz_stavkasi atributlari asosida hisob bo‘yicha foizlarni 
+      hisoblaydigan va qaytaradigan umumiy hisoblangan_foizni qo‘shing.
 
 9 - savol:
-    -- Markasi, modeli va yiliga oid shaxsiy atributlarga ega avtomobil clasi yarating. Marka, model va yil atributlarini olish uchun umumiy barchasni qo'shing. Yil atributi asosida avtomobilning yoshini hisoblash uchun umumiy qo'shing
+    -- Markasi, modeli va yiliga oid shaxsiy atributlarga ega avtomobil clasi 
+    yarating. Marka, model va yil atributlarini olish uchun umumiy barchasni 
+    qo'shing. Yil atributi asosida avtomobilning yoshini hisoblash uchun umumiy
+     qo'shing
 
 10 - savol:
-    -- Berilgan listdagi eng kichik va  katta qiymatni topuvchi dastur yarating [4, 7, 2, 8, 1, 9, 5, 6, 15, 13]
+    -- Berilgan listdagi eng kichik va  katta qiymatni topuvchi dastur yarating 
+    [4, 7, 2, 8, 1, 9, 5, 6, 15, 13]
 
 11 - savol:
-    -- Berilgan listdagi elementlar yig'indisini toping. Berilgan listdagi elementlar yig'indisining o'rtacha qiymatini toping. 
+    -- Berilgan listdagi elementlar yig'indisini toping. Berilgan listdagi elementlar
+     yig'indisining o'rtacha qiymatini toping. 
 
 12 - savol:
 
@@ -37,57 +48,76 @@
 
 13 - savol:
     
-    -- o'quvchilar haqida ma'lumotlarni saqlagan dictionary yaratishingiz  (ism, yosh, fekultet, grux) larni tagma-tag jolashtirgan xolda for loop orqali chiqarib bering o'quvchilar soni 25 ta!
+    -- o'quvchilar haqida ma'lumotlarni saqlagan dictionary yaratishingiz  
+    (ism, yosh, fekultet, grux) larni tagma-tag jolashtirgan xolda for loop orqali 
+    chiqarib bering o'quvchilar soni 25 ta!
 
 14  - savol:
     
-    -- forda teleonlarning narxi bilan dictionary yaratib, foydalanuvchidan ro'yxatdagi elementlarni tanlashni so'raymiz va o'sha elementni o'chirishlari uchun dastur yarating
+    -- forda teleonlarning narxi bilan dictionary yaratib, foydalanuvchidan 
+    ro'yxatdagi elementlarni tanlashni so'raymiz va o'sha elementni o'chirishlari 
+    uchun dastur yarating
 
 15 - savol:
     
-    -- Foydalanuvchidan bir nechta son kiritishini so'raydigan dastur yarating va kiritilgan sonlarning yig'indisini hisoblovchi dastur tuzing
+    -- Foydalanuvchidan bir nechta son kiritishini so'raydigan dastur yarating va
+     kiritilgan sonlarning yig'indisini hisoblovchi dastur tuzing
 
 16 - savol:
 
-    -- whileda Foydalanuvchidan ismini kiritishni so'raydigan dastur yarating va Random kutubxonasidan foydalanib son topish o'yinini yarating
+    -- whileda Foydalanuvchidan ismini kiritishni so'raydigan dastur yarating 
+    va Random kutubxonasidan foydalanib son topish o'yinini yarating
 
 17 - savol:
 
-    -- whileda Foydalanuvchi istalgancha ism kiritishi kerak va eng oxirida exit kiritilganda  dastur toxtab kiritilingan ismlarni list ko'rinishida ciqarib bersin
+    -- whileda Foydalanuvchi istalgancha ism kiritishi kerak va eng oxirida exit 
+    kiritilganda  dastur toxtab kiritilingan ismlarni list ko'rinishida ciqarib 
+    bersin
 
 18 - savol:
 
-    -- Foydalanuvchidan juft son kiritishni so'raymiz va kiritilgan sonlarni ro'yxatga yozib, ro'yxatni chiqaramiz.
+    -- Foydalanuvchidan juft son kiritishni so'raymiz va kiritilgan sonlarni 
+    ro'yxatga yozib, ro'yxatni chiqaramiz.
 
 19 - savol:
 
-    --  Foydalanuvchidan kelgan xabarlarni tekshiruvchi dastur yarating. Foydalanuvchidan kelgan xabar kichik xarflarda bo'lsa "Tushunmadim, qaytadan yozing" degan javop qaytishi va
-    kelgan xabar katta harflarda bo'lsa "xabaringiz katta harflarda yozilgan desin"
+    --  Foydalanuvchidan kelgan xabarlarni tekshiruvchi dastur yarating. 
+    Foydalanuvchidan kelgan xabar kichik xarflarda bo'lsa "Tushunmadim, 
+    qaytadan yozing" degan javop qaytishi va
+    kelgan xabar katta harflarda bo'lsa "xabaringiz katta harflarda yozilgan
+     desin"
 
 20 - savol:
 
-    -- sizdagi list ro'yxatdagi sonlarning ko'paytmasini hisoblaydigan funksiya yarating
+    -- sizdagi list ro'yxatdagi sonlarning ko'paytmasini hisoblaydigan funksiya 
+    yarating
 
 21 - savol:
      
-    -- Foydlanuvchi kiritgan sonning faktorialini hisoblovchi funksiya yarating
+    -- Foydlanuvchi kiritgan sonning faktorialini hisoblovchi funksiya
+     yarating
 
 22 - savol:
 
-    -- Berilgan ro'yxatdan juft sonlarni oluvchi dastur yarating [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    -- Berilgan ro'yxatdan juft sonlarni oluvchi dastur yarating 
+    
 
 23 - savol:
 
-    -- While True dan oydalanib myshop dasturii yarating sizda 
+    -- While True dan foydalanib myshop dasturii yarating sizda 
      {
     "olma": 5000,
     "anor": 7000,
     "nok": 2000,
     "uzum": 10000,
     "shaftoli": 8000
-} maxsulotlar mavjud va shu maxsulotlarni dastur ishga tushgan namoish etisingiz kerak va
-foydlanuvchi istalgancha maxsulotni istalgan xolda xarid qilishi kerak va xaridlarni xisoblab beriborishi kerak bo'ladi masalan(olma yozilganda nechta olasiz desin va kiritgan sonini
-narxiga ko'paytirib xisoblab boraversin ) eng oxirida exit yoki stop buyrug'i kiritilinsa barcha xaridni 
+} 
+maxsulotlar mavjud va shu maxsulotlarni dastur ishga tushgan namoish etisingiz kerak
+ va foydlanuvchi istalgancha maxsulotni istalgan xolda xarid qilishi kerak va 
+ xaridlarni xisoblab beriborishi kerak bo'ladi masalan(olma yozilganda nechta 
+ olasiz desin va kiritgan sonini
+narxiga ko'paytirib xisoblab boraversin ) eng oxirida exit yoki stop buyrug'i 
+kiritilinsa barcha xaridni 
 nomlari bilan xisoblab berishi kerak 
 
 24 - savol:
@@ -106,7 +136,9 @@ nomlari bilan xisoblab berishi kerak
 
 25 - savol:
 
-    -- Django loyixa yarating loyixangizda media fayllar bilan ishlovchi qism bo'lsin ( mushuk faylida mushuklar surati, mevalar faylida mevalar) shu kabi 8ta misollar aralashgan dastur yarating
+    -- Django loyixa yarating loyixangizda media fayllar bilan ishlovchi qism bo'lsin
+     ( mushuk faylida mushuklar surati, mevalar faylida mevalar) shu kabi 8ta 
+     misollar aralashgan dastur yarating
 
 26 - savol:
 
